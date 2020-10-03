@@ -1,0 +1,6 @@
+Course: Social Media Mining and Data Mining
+Assingment - 2Average distance of network 4.667524752475248
+Average diameter of network 6
+Network Size 
+Number of nodes:106
+Number of Edges:104
